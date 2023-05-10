@@ -3,5 +3,5 @@ package testlib
 import "fmt"
 
 func PrintVersion() {
-	fmt.Print("this is version 1.1.0")
+	fmt.Print("this is version 1.4.0")
 }
